@@ -1,0 +1,2 @@
+# WU-SSD-Logs
+Logs
